@@ -1,5 +1,5 @@
 #include <iostream>
-#include <stdio.h>
+
 using namespace std;
 
 int main(){
@@ -25,8 +25,7 @@ int main(){
                 cout<<"  ";
             }
             else{
-                //printf("%-2d", a);
-		cout<<a<<" ";
+                cout<<a<<" ";
 		a++;
             }
         }
