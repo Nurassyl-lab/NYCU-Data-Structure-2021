@@ -1,0 +1,19 @@
+STUDENT ID: 0810981
+STUDENT NAME: 安實克
+
+HOMEWORK 2
+
+zip folder description:
+
+0810981.h - is a header file containing structure, functions, and libraries
+
+0810981.cpp - is a source file containing main function
+
+0810981 - is an executable file which was created by command 
+g++ -o 0810981 0810981.cpp
+I have added this file instead of .exe file which was mentioned in 
+submission information
+
+
+to execute/run a code, please use the following command line parameter
+./0810981 sample.in sample.out
